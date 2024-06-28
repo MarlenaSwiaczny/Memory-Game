@@ -84,8 +84,6 @@ function renderGameArea(numberOfCards) {
         }       
     }
 
-   
-
     function init() {
         
         cardsColors = colors.flatMap(item => [item, item]);
