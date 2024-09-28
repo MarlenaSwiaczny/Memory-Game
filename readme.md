@@ -1,5 +1,5 @@
 # MEMORY GAME
-The site is live at: https://marlenaswiaczny.github.io/Memory/
+The site is live at: https://marlenaswiaczny.github.io/Memory-Game/
 ## General info
 This is a simple memory game. The cards are revealed by clicking. You need to uncover all pairs of the same color.
 
